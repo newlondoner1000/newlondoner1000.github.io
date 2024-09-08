@@ -1,0 +1,69 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+margin: 0px;
+
+}
+
+#logo{
+margin: 0px;
+padding: 8px;
+font-family: "Fredoka One",sans-serif;
+box-shadow: 8px 8px 10px 3px darkorange;
+width: 16%;
+text-shadow: 
+1px 1px 0px black, /* bottom-right shadow */
+-1px 1px 0px black, /* bottom-left shadow */
+1px -1px 0px black, /* top-right shadow */
+-1px -1px 0px black, /* top-left shadow */;
+}
+
+ul {
+
+margin:0px;
+
+}
+
+body > header{
+background-color:blueviolet;
+color: white;
+
+}
+
+body>header>nav>ul { 
+    list-style:none;
+    text-decoration: none;
+
+
+}
+
+.navbutton
+color: white;
+text-decoration: none;
+{
+
+body>main>article{
+    width:70%;
+    margin:auto;
+}
+
+form{
+
+text-align:center;
+
+}
+
+h2{
+
+    text-align:center; 
+}
+
+}
+
+body>footer{
+
+
+
+    background-color:blueviolet ;
+
+}
+
